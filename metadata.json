@@ -1,0 +1,6 @@
+{
+  "name": "Eleven Gym Lahore",
+  "description": "Eleven Gym Lahore — a modern fitness destination focused on strength, training and personal transformation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
